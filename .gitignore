@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/customcaching/Sample.CustomCaching/obj
+/customcaching/Sample.CustomCaching.Tests/obj
+/customcaching/.vs/Sample.CustomCaching
+/customcaching/Sample.CustomCaching/.vs/Sample.CustomCaching
